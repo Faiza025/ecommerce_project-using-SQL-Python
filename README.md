@@ -20,5 +20,4 @@ Sample Output
 **Takeaways**
 This project highlights how SQL + Python can be combined for real-world business intelligence, enabling insightful reporting, trend analysis, and data-driven decisions
 
-<img width="468" height="527" alt="image" src="https://github.com/user-attachments/assets/eba80418-4f9c-4262-8d9b-85b8eeafa694" />
 
